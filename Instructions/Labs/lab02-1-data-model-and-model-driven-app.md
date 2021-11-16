@@ -57,6 +57,8 @@ In this exercise, you will create a custom solution publisher and a solution. Th
 
 1.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and make sure you are in the practice environment you created.
 
+2.  Turn Solution Preview to Off
+
 2.  Select **Solutions** and click **+ New solution**.
 
 3.  Enter **Company 311** for **Display name** and click.
